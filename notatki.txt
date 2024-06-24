@@ -1,0 +1,2 @@
+identyfikator aktywa, data notowania (1 dziennie, powiedzmy o 12:00 czasu polskiego) i historia od czasu zaczęcia inwestowania
+notowania aktywa powinny być od jakiejś daty startowej, od 1997 roku
